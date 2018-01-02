@@ -33,7 +33,7 @@
 .col-2 {
   float: left;
   width: 64%;
-  align-self: auto;
+  align-self: center;
 }
 
 .col-3 {
