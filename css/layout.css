@@ -26,6 +26,7 @@
 .col-1 {
   float: left;
   width: 31%;
+  align-self: baseline;
 }
 
 .col-2 {
