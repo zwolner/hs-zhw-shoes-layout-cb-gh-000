@@ -24,12 +24,14 @@
 
 /* Posititoning Classes */
 .col-1 {
+  float: right;
   width: 32%;
   align-self: auto;
   justify-content: space-between;
 }
 
 .col-2 {
+  float: left;
   width: 64%;
   align-self: auto;
   justify-content: space-between;
