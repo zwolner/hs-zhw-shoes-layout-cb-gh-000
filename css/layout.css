@@ -25,14 +25,14 @@
 /* Posititoning Classes */
 .col-1 {
   float: right;
-  width: 32%;
+  width: 31%;
   align-self: flex-end;
   justify-content: space-around;
 }
 
 .col-2 {
   float: left;
-  width: 64%;
+  width: 62%;
   align-self: flex-end;
   justify-content: space-around;
 }
