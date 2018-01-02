@@ -27,14 +27,14 @@
   float: left;
   width: 31%;
   margin: 1%;
-  align-self: baseline;
+  align-self: stretch;
 }
 
 .col-2 {
   float: left;
   width: 64%;
   margin: 1%;
-  align-self: baseline;
+  align-self: stretch;
 }
 
 .col-3 {
