@@ -26,6 +26,7 @@
 .col-1 {
   float: right;
   width: 32%;
+  align-self: auto;
   justify-content: space-between;
 }
 
