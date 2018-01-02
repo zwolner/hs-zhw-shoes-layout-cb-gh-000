@@ -26,14 +26,14 @@
 .col-1 {
   float: right;
   width: 32%;
-  align-self: auto;
+  align-self: baseline;
   justify-content: space-around;
 }
 
 .col-2 {
   float: left;
   width: 64%;
-  align-self: auto;
+  align-self: baseline;
   justify-content: space-around;
 }
 
