@@ -26,15 +26,14 @@
 .col-1 {
   float: left;
   width: 31%;
-  align-self: flex-end;
-  justify-content: space-around;
+  margin: auto;
 }
 
 .col-2 {
   float: left;
   width: 62%;
-  align-self: flex-end;
-  justify-content: space-around;
+  margin auto:
+
 }
 
 .col-3 {
