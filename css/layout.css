@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 .col-1 {
-  display: flex;
+  display: inline-flex;
   float: right;
   width: 32%;
   align-self: flex-end;
@@ -32,7 +32,7 @@
 }
 
 .col-2 {
-  display: flex;
+  display: inline-flex;;
   float: left;
   width: 64%;
   align-self: flex-end;
