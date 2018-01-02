@@ -26,13 +26,13 @@
 .col-1 {
   float: left;
   width: 31%;
-  align-self: baseline;
+  align-self: auto;
 }
 
 .col-2 {
   float: left;
   width: 61%;
-
+align-self: auto;
 }
 
 .col-3 {
