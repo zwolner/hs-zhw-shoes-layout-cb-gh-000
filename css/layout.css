@@ -25,13 +25,13 @@
 /* Posititoning Classes */
 .col-1 {
   float: right;
-  width: 31%;
+  width: 33%;
   align-self: auto;
 }
 
 .col-2 {
   float: left;
-  width: 61%;
+  width: 66%;
 align-self: auto;
 }
 
