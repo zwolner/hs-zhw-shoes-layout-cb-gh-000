@@ -26,14 +26,14 @@
 .col-1 {
   float: right;
   width: 32%;
-  align-self: center;
+  align-self: stretch;
 
 }
 
 .col-2 {
   float: left;
   width: 64%;
-  align-self: center;
+  align-self: stretch;
 }
 
 .col-3 {
