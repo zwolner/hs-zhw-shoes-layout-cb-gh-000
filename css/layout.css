@@ -7,7 +7,6 @@
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  display: flex;
 }
 
 .clearfix:after {
@@ -25,6 +24,7 @@
 
 /* Posititoning Classes */
 .col-1 {
+  display: flex;
   float: right;
   width: 32%;
   align-self: flex-end;
@@ -32,6 +32,7 @@
 }
 
 .col-2 {
+  display: flex;
   float: left;
   width: 64%;
   align-self: flex-end;
