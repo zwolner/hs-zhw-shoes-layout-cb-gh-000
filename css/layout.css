@@ -27,14 +27,14 @@
   float: right;
   width: 32%;
   align-self: auto;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .col-2 {
   float: left;
   width: 64%;
   align-self: auto;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .col-3 {
